@@ -5,6 +5,9 @@
 </template>
 
 <script>
+  import Vue from 'vue'
+  window.Vue = Vue
+
   import Plyr from 'plyr'
 
   export default {
